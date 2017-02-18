@@ -40,7 +40,7 @@ Note: GeoSpark has been tested on Apache Spark 1.2, 1.3, 1.4, 1.5 and Apache Had
 
 ### GeoSpark Programming Examples (Java)
 
-Spatial queries Java example in "org.datasyslab.geospark.showcase" folder: Spatial range, join and KNN.
+
 
 
 ### GeoSpark Programming Examples (Scala)
